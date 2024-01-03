@@ -1,0 +1,55 @@
+*{
+  /* border: 1px solid; */
+  align-items: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.shablonDiv{
+  width: 800px;
+  border: 1px solid;
+  margin: auto;
+}
+.ProductImg{
+  width: 150px;
+  height: 100px;
+}
+.productDiv1{
+  display: flex;
+  justify-content: space-evenly;
+}
+.LikeEndDalete{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  cursor: pointer;
+  width: 80px;
+}
+.ImgEndNameProductDiv{
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+  width: 300px;
+  justify-content: space-between;
+}
+h1{
+  margin-left: 60px;
+}
+.MinusPlus{
+  background-color: rgb(185, 202, 202);
+  border: none;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.LDbtn{
+  background-color: white;
+  border: none;
+  width: 25px;
+  cursor: pointer;
+  height: 25px;
+}
+.shablonDiv{
+  border-radius: 10px;
+  margin-top: 100px;
+}
